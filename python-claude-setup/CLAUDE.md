@@ -16,7 +16,7 @@
 ### Core Stack
 **Frontend:**
 - **Runtime**: Node.js + TypeScript
-- **Framework**: Next.js (App Router)
+- **Framework**: Next.js 16 (App Router)
 - **Styling**: Tailwind CSS
 - **State Management**: Zustand
 - **Testing**: Jest + React Testing Library

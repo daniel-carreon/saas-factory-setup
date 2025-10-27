@@ -15,7 +15,7 @@
 
 ### Core Stack
 - **Runtime**: Node.js + TypeScript
-- **Framework**: Next.js (App Router)
+- **Framework**: Next.js 16 (App Router)
 - **Base de Datos**: PostgreSQL/Supabase
 - **Styling**: Tailwind CSS
 - **State Management**: Zustand
