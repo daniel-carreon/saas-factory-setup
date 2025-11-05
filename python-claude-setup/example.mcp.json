@@ -8,10 +8,7 @@
     },
     "chrome-devtools": {
       "command": "npx",
-      "args": [
-        "-y",
-        "@smithery/mcp-chrome-devtools"
-      ]
+      "args": ["-y", "chrome-devtools-mcp@latest"]
     },
     "supabase": {
       "command": "npx",
